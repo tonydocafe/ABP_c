@@ -103,7 +103,7 @@ int ContarNosABP(No *pai) {
 }
 
 void destruirABP(No *pai) {
-    if (pai) {
+    if (pai != NULL) {
         destruirABP(pai->filhoesquerda);
         destruirABP(pai->filhodireita);
         free(pai);
