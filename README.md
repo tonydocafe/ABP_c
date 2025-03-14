@@ -9,6 +9,8 @@ O usuário pode criar a árvore, inserir elementos, buscar valores, remover nós
 
 ---
 
+
+
 ## Funcionalidades
 
 ### Para a versão com números inteiros:
