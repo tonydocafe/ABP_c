@@ -5,6 +5,9 @@ Este projeto implementa uma Árvore Binária de Pesquisa (ABP) em C, permitindo 
 1. Manipulação de números inteiros.
 2. Gerenciame
 
+
+
+
 to de alunos, incluindo nome, matrícula e nota.
 
 O usuário pode criar a árvore, inserir elementos, buscar valores, remover nós e imprimir a árvore em diferentes ordens.
